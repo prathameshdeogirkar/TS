@@ -15,7 +15,7 @@ type Principal = Student & Teacher;
 
 
 const principal: Principal = {
-    name: Rahul,
+    name: "Rahul",
     age: 30,
     mobile: "",
     email: "",
